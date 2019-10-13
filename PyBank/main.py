@@ -3,6 +3,8 @@ import csv
 import sys
 
 budget_csv = os.path.join('budget_data.csv')
+# Py_bank = open("Py_bank.txt","w")
+# sys.stdout = Py_bank
 
 print("Financial Analysis")
 print("----------------------------------")
