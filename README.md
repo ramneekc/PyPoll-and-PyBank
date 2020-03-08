@@ -1,5 +1,3 @@
-# Python-Challenge
-
 ```
 Challenge 1: PyBank
 ```
